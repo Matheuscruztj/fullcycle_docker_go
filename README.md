@@ -7,5 +7,5 @@ docker run --rm --name desafio_go matheuscruztj/codeeducation
 ## Build:
 docker build -t desafio_go .
 
-## Run on docker (local imaage):
+## Run on docker (local image):
 docker run --rm  --name desafio_go desafio_go
